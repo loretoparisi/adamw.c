@@ -256,7 +256,7 @@ The step counter is 1-indexed and managed internally, matching `microgpt.c`'s `(
 - Loshchilov & Hutter, ["Decoupled Weight Decay Regularization"](https://arxiv.org/abs/1711.05101) (2019) — the AdamW paper
 - Kingma & Ba, ["Adam: A Method for Stochastic Optimization"](https://arxiv.org/abs/1412.6980) (2015) — original Adam
 - [llm.c](https://github.com/karpathy/llm.c) — production C/CUDA ML reference; AdamW idioms
-- [microgpt.c](https://github.com/antirez/flux2.c) — the Adam implementation this extends
+- [microgpt.c]([https://github.com/antirez/flux2.c](https://github.com/loretoparisi/microgpt.c)) — the Adam implementation this extends
 - [muon.c](../muon.c) — sibling file; same structural conventions
 
 ---
